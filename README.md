@@ -15,9 +15,9 @@ To understand how to format your input file, what external files you must genera
 
 Requirements for wiscobolt:
 
-  	UnxUtils
-  
-  	gfortran 12.1.0 or later
+  UnxUtils
+  &nbsp;
+  gfortran 12.1.0 or later
   
 In order to run wiscobolt, use the command prompt/shell to navigate to the main wiscobolt directory, and enter the command 'wiscobolt'.
 
