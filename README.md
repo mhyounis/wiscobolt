@@ -13,11 +13,13 @@ To understand what wiscobolt aims to do, read the foreword of the **wiscobolt** 
 To understand how to format your input file, what external files you must generate (i.e., mesh, incident beam spectra), and wiscobolt's output, read the first chapter of the **wiscobolt implementation** document.
 
 
-Requirements for wiscobolt:
+Requirements for wiscobolt (Windows only):
 
   &emsp; UnxUtils
   
   &emsp; gfortran 12.1.0 or later
+
+At the moment, the provided makefile and batch file will not work in Linux.
   
 In order to run wiscobolt, use the command prompt/shell to navigate to the main wiscobolt directory, and enter the command 'wiscobolt'.
 
