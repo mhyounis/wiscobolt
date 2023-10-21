@@ -5,7 +5,7 @@ Contact the author at myounis@wisc.edu
 
 Important documents are located in the "Documents" folder. License information is in the "LICENSE" folder.
 
-To understand what wiscobolt aims to do, read the foreword of the **wiscobolt** document.
+To understand what wiscobolt aims to do, read the foreword of the **wiscobolt** document.  
 To understand how to format your input file, what external files you must generate (i.e., mesh, incident beam spectra), and wiscobolt's output, read the first chapter of the **wiscobolt implementation** document.
 
 Requirements for wiscobolt (Windows only):
