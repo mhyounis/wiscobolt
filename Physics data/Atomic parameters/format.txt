@@ -1,0 +1,6 @@
+Each element has a number of sections, beginning with Z000 (for element Z).
+
+The first section is always the number of electrons per shell, with shell index
+The second section is always shell binding energy (in MeV)
+The third section is always kinetic energy (in MeV)
+The delimiter is -1137.0    -1137.0

@@ -1,0 +1,3 @@
+Column 1: Energy values (in eV)
+Column 2: Total cross section (cm2)
+Column i > 2: Cross section for shell i-2 (cm2)

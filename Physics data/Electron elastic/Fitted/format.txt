@@ -1,0 +1,4 @@
+Name of text file corresponds to atomic number
+
+These text files store k as columns (1-6) and j as rows (0-4). When put into Fortran,
+the arrays have k as rows (1-6) and j as columns (1-5).

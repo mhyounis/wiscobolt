@@ -1,0 +1,3 @@
+D.E. Cullen et al. Tables and Graphs of Atomic Subshell and Relaxation Data Derived from the LLNL Evaluated Atomic Data Library (EADL), Z = 1 - 100. Lawrence Livermore National Laboratory, UCRL-50400, Vol. 30. (1991)
+
+Complete libraries accessible at: https://www-nds.iaea.org/epdl97/libsall.htm

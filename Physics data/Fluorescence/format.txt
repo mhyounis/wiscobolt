@@ -1,0 +1,11 @@
+Data from EADL.
+
+Can also be found in:
+"Tables and Graphs of Atomic Subshell and Relaxation Data Derived from the LLNL Evaluated Atomic Data Library (EADL), Z = 1 -100"
+Perkins et al. (1991)
+
+The file Z.dat contains data for atomic number Z. Data is organized as follows:
+Transitions occur through 3 shells at a time.
+Different shells are demarcated by -1137 -1137
+The end of the file is marked by -1 -1
+The first column is the efficiency, the second is the energy of the emitted particle.
