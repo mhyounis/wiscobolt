@@ -1,5 +1,5 @@
 # wiscobolt
-A deterministic, finite-element photon-electron Boltzmann transport solver for problems in radiation therapy.  
+A deterministic, finite-element photon-electron Boltzmann transport solver for problems in the context of radiation therapy.  
 
 Contact the author at myounis@wisc.edu  
 
