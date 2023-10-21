@@ -12,7 +12,7 @@ Requirements for wiscobolt (Windows only):
   &emsp; UnxUtils
   &emsp; gfortran 12.1.0 or later
   
-In order to run wiscobolt, use the command prompt/shell to navigate to the main wiscobolt directory, and enter the command 'wiscobolt'.
+In order to run wiscobolt, use the command prompt/shell to navigate to the main wiscobolt directory, and enter the command 'wiscobolt'.  
 At the moment, the provided makefile and batch file will not work in Linux.
 
 Note finally that wiscobolt uses physics data extracted from a number of sources, as well as one other program. The appropriate citations, as well as licensing information, are available in the corresponding folders within the "Physics data" folder.
