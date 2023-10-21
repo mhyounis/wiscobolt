@@ -3,7 +3,7 @@ A deterministic, finite-element photon-electron Boltzmann transport solver for p
 
 Contact the author at myounis@wisc.edu  
 
-Important documents are located in the "Documents" folder. Licensed with GNU General Public License 3.0. The full license can be found at LICENSE/gpl-3.0.txt.  
+Important documents are located in the "Docs" folder. Licensed with GNU General Public License 3.0. The full license can be found at LICENSE/gpl-3.0.txt.  
 
 To understand what wiscobolt aims to do, read the foreword of the **wiscobolt** document.  
 To understand how to format your input file, what external files you must generate (i.e., mesh, incident beam spectra), and wiscobolt's output, read the first chapter of the **wiscobolt implementation** document.  
