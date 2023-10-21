@@ -1,0 +1,125 @@
+### Solution parameters ###
+# Problem
+external electron beam
+
+# Use FCS
+true
+
+#* Photon solution method
+
+#--> Max number of iterates
+
+
+#* Electron solution method
+GMRESm
+#--> Max number of iterates
+25	1000
+
+# Convergence criterion
+1.0E-8
+
+### Mesh ###
+# Selected mesh
+YOUR-MESH-HERE
+
+# Beam in mesh
+false
+
+### Angular discretization ###
+#* Photon angular treatment
+
+
+#* Electron angular treatment
+SN
+
+# Angular discretization parameter
+16
+
+### Energy discretization ###
+# Energy discretization method
+MGXS
+
+#* Photon energy min and max
+
+
+#* Number of photon energy groups
+
+
+#* Photon energy structure
+
+
+#* Use photoelectric shell energies
+
+
+#* Electron energy min and max
+0.001	6.6
+
+#* Number of electron energy groups
+50
+
+#* Electron energy structure
+linear
+
+#* Use impact ionization shell energies
+false
+
+### Physics ###
+#* Electron inelastic scattering cross section
+Moller
+
+#* Electron RCSDA cross section (MGXS only)
+first order
+
+#* Electron elastic scattering cross section
+ELSEPA
+
+#* Electron RCSDA cutoff (FEXS only)
+
+
+#* Extended transport correction (elastic)
+true
+
+#* Extended transport correction (inelastic)
+true
+
+#* Exact RCSDA angular treatment
+true
+
+### Materials ###
+# Material atomic numbers
+13	-1
+-1
+
+# Corresponding number of atoms
+1
+
+# Material densities
+2.7
+
+### Beam definition ###
+# Beam energy distribution
+polychromatic
+#--> Linac
+YOUR-BEAM-HERE
+#--> Energy width
+
+
+# Beam origin
+0.0	0.0	100.0
+
+# Beam axis
+0.0	0.0	-1.0
+
+# Beam angular distribution
+spherical
+
+# Beam cutout
+rectangle
+#--> Beam cutout parameters
+100.0	10.0	10.0	0.0
+
+### Extra options ###
+post processing
+1	0.0
+
+### END ###
