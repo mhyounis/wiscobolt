@@ -1,7 +1,7 @@
 # wiscobolt
 A deterministic, finite-element photon-electron Boltzmann transport solver for problems in the context of radiation therapy.  
 
-Contact the author at myounis@wisc.edu  
+Contact the author at myounis@umd.edu  
 
 Important documents are located in the "Docs" folder. Licensed with GNU General Public License 3.0. The full license can be found at LICENSE/gpl-3.0.txt.  
 
